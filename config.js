@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE CACA'
+global.ownername = 'RW-MODZ'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285945393167','','']
-global.premium = ['6287765045553']
-global.packname = 'The Ca Bot'
-global.author = 'CACA !!'
+global.owner = ['6282114680993','','']
+global.premium = ['6282114680993']
+global.packname = 'Rw Modz'
+global.author = 'Rw Modz !!'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','$','#']
