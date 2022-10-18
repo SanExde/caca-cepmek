@@ -17,13 +17,13 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'RW-MODZ'
+global.ownername = 'Rw Modz'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6282114680993','','']
-global.premium = ['6282114680993']
+global.owner = ['6289630969335','','']
+global.premium = ['6289630969335']
 global.packname = 'Rw Modz'
 global.author = 'Rw Modz !!'
 global.wlcm = []
